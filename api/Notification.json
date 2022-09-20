@@ -36,7 +36,14 @@
           "ie": {
             "version_added": false
           },
-          "oculus": "mirror",
+          "oculus": {
+            "version_added": false,
+            "partial_implementation": true,
+            "notes": [
+              "Notifications in Chrome for Android are only available through service workers. To show notifications on Android, see <a href='https://developer.mozilla.org/docs/Web/API/ServiceWorkerRegistration/showNotification'><code>ServiceWorkerRegistration.showNotification()</code></a>.",
+              "Starting in Chrome 49, notifications do not work in incognito mode."
+            ]
+          },
           "opera": {
             "version_added": "23",
             "notes": [
@@ -217,7 +224,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "39"
             },
@@ -257,7 +266,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "39"
             },
@@ -299,7 +310,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "23"
             },
@@ -344,7 +357,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "23"
             },
@@ -388,7 +403,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "23"
             },
@@ -433,7 +450,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "23"
             },
@@ -475,7 +494,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": "mirror",
             "opera_android": "mirror",
             "safari": {
@@ -517,7 +538,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "23"
             },
@@ -562,7 +585,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "23"
             },
@@ -606,7 +631,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "23"
             },
@@ -648,7 +675,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": "mirror",
             "opera_android": "mirror",
             "safari": {
@@ -688,7 +717,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "23"
             },
@@ -730,7 +761,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": "mirror",
             "opera_android": "mirror",
             "safari": {
@@ -770,7 +803,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "23"
             },
@@ -810,7 +845,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": "mirror",
             "opera_android": "mirror",
             "safari": {
@@ -860,7 +897,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "23"
             },
@@ -910,7 +949,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": "mirror",
             "opera_android": "mirror",
             "safari": {
@@ -951,7 +992,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "23"
             },
@@ -993,7 +1036,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": "mirror",
             "opera_android": "mirror",
             "safari": {
@@ -1033,7 +1078,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "23"
             },
@@ -1075,7 +1122,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": "mirror",
             "opera_android": "mirror",
             "safari": {
@@ -1115,7 +1164,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "23"
             },
@@ -1158,7 +1209,10 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false,
+              "notes": "<a href='https://crbug.com/971422'>Does not work</a> on Android O or later regardless of Chrome version."
+            },
             "opera": "mirror",
             "opera_android": {
               "version_added": "41",

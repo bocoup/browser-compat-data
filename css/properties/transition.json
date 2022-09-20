@@ -128,7 +128,9 @@
               "ie": {
                 "version_added": "10"
               },
-              "oculus": "mirror",
+              "oculus": {
+                "version_added": "≤23.0"
+              },
               "opera": "mirror",
               "opera_android": "mirror",
               "safari": {

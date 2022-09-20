@@ -122,7 +122,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "27"
             },
@@ -170,7 +172,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "27"
             },

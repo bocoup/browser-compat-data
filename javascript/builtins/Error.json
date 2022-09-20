@@ -235,7 +235,9 @@
               "nodejs": {
                 "version_added": "16.9.0"
               },
-              "oculus": "mirror",
+              "oculus": {
+                "version_added": false
+              },
               "opera": {
                 "version_added": false
               },

@@ -191,7 +191,14 @@
               "ie": {
                 "version_added": false
               },
-              "oculus": "mirror",
+              "oculus": {
+                "version_added": false,
+                "partial_implementation": true,
+                "notes": [
+                  "This value is supported with the prefixed version of the property only.",
+                  "According to the <a href='https://webkit.org/blog/164/background-clip-text/'>WebKit blog</a>, text decorations or shadows are not included in the clipping."
+                ]
+              },
               "opera": "mirror",
               "opera_android": "mirror",
               "safari": [

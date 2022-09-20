@@ -29,7 +29,9 @@
               "version_added": "10",
               "alternative_name": "-ms-high-contrast-adjust"
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": "≤23.0"
+            },
             "opera": {
               "version_added": false
             },

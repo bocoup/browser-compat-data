@@ -22,7 +22,9 @@
             "version_added": "9",
             "notes": "Before Internet Explorer 10, <code>DragEvent</code> is exposed in standards mode but not quirks mode."
           },
-          "oculus": "mirror",
+          "oculus": {
+            "version_added": "≤23.0"
+          },
           "opera": {
             "version_added": "12"
           },
@@ -64,7 +66,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": "≤23.0"
+            },
             "opera": {
               "version_added": "12"
             },
@@ -108,7 +112,9 @@
               "partial_implementation": true,
               "notes": "The value is always <code>null</code>."
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": "≤23.0"
+            },
             "opera": "mirror",
             "opera_android": "mirror",
             "safari": {

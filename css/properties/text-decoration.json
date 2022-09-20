@@ -59,7 +59,9 @@
               "ie": {
                 "version_added": false
               },
-              "oculus": "mirror",
+              "oculus": {
+                "version_added": "≤23.0"
+              },
               "opera": {
                 "version_added": "4",
                 "version_removed": "15"

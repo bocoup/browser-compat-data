@@ -962,7 +962,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": "mirror",
             "opera_android": "mirror",
             "safari": {
@@ -1844,7 +1846,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": "mirror",
             "opera_android": "mirror",
             "safari": {
@@ -2406,7 +2410,9 @@
             "ie": {
               "version_added": false
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": "mirror",
             "opera_android": "mirror",
             "safari": {
@@ -3179,7 +3185,9 @@
               "version_added": "9",
               "notes": "Before Internet Explorer 9, this event is not supported via <code>addEventListener</code>; however, the event handler is supported since IE 5.5. The event can be listened to via <code>element.oncopy</code>."
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "≤12.1"
             },
@@ -3271,7 +3279,9 @@
               "version_added": "9",
               "notes": "Before Internet Explorer 9, this event is not supported via <code>addEventListener</code>; however, the event handler is supported since IE 5.5. The event can be listened to via <code>element.oncopy</code>."
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "≤12.1"
             },
@@ -3534,7 +3544,9 @@
             "ie": {
               "version_added": "9"
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "11.6"
             },
@@ -3577,7 +3589,9 @@
             "ie": {
               "version_added": "9"
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "11.6"
             },
@@ -5938,7 +5952,9 @@
                 "Before Internet Explorer 9, this event is not supported via <code>addEventListener</code>; however, the event handler is supported since IE 5.5. The event can be listened to via <code>element.oncopy</code>."
               ]
             },
-            "oculus": "mirror",
+            "oculus": {
+              "version_added": false
+            },
             "opera": {
               "version_added": "≤12.1"
             },

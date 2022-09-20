@@ -151,7 +151,9 @@
               "nodejs": {
                 "version_added": "15.0.0"
               },
-              "oculus": "mirror",
+              "oculus": {
+                "version_added": false
+              },
               "opera": "mirror",
               "opera_android": "mirror",
               "safari": {
