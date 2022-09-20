@@ -18,7 +18,15 @@
           "ie": {
             "version_added": false
           },
-          "oculus": "mirror",
+          "oculus": [
+            {
+              "version_added": "≤23.0"
+            },
+            {
+              "alternative_name": "XR",
+              "version_added": "8.0"
+            }
+          ],
           "opera": "mirror",
           "opera_android": "mirror",
           "safari": {
